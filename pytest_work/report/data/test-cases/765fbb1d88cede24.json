@@ -1,0 +1,223 @@
+{
+  "uid" : "765fbb1d88cede24",
+  "name" : "加法测试用例",
+  "fullName" : "test_case.test_calculator.TestCalculator#test_add",
+  "historyId" : "ce1482ac4d6e86e8f300941926d48151",
+  "time" : {
+    "start" : 1636899993867,
+    "stop" : 1636899993872,
+    "duration" : 5
+  },
+  "description" : "\n        测试加法运算\n        ",
+  "descriptionHtml" : "<pre><code>    测试加法运算\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "calculator",
+    "time" : {
+      "start" : 1636899993867,
+      "stop" : 1636899993867,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        测试加法运算\n        ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "第一步：实例化Calculator类",
+      "time" : {
+        "start" : 1636899993867,
+        "stop" : 1636899993867,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "第二步：调用add方法，进行相加计算：1+2",
+      "time" : {
+        "start" : 1636899993867,
+        "stop" : 1636899993867,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "第三步：上传图片",
+      "time" : {
+        "start" : 1636899993867,
+        "stop" : 1636899993872,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "cca6aff52db1b465",
+        "name" : "测试图片",
+        "source" : "cca6aff52db1b465.png",
+        "type" : "image/png",
+        "size" : 2770610
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "第四步：断言计算结果是否与预期一致：3==3",
+      "time" : {
+        "start" : 1636899993872,
+        "stop" : 1636899993872,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "calculator::0",
+    "time" : {
+      "start" : 1636899993873,
+      "stop" : 1636899993873,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试计算器功能"
+  }, {
+    "name" : "story",
+    "value" : "测试加法功能"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_calculator"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalculator"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-1PG7S0AC"
+  }, {
+    "name" : "thread",
+    "value" : "32984-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "result",
+    "value" : "3"
+  }, {
+    "name" : "value_1",
+    "value" : "1"
+  }, {
+    "name" : "value_2",
+    "value" : "2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f510c56c417c3568",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636899948998,
+        "stop" : 1636899949003,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "1df92a71644cca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636899900281,
+        "stop" : 1636899900286,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "1b5f9479813dc018",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636899865075,
+        "stop" : 1636899865080,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "e11697e7211ffea1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636899748451,
+        "stop" : 1636899748455,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "9605d90918865665",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636899647209,
+        "stop" : 1636899647214,
+        "duration" : 5
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "run(order=2)" ]
+  },
+  "source" : "765fbb1d88cede24.json",
+  "parameterValues" : [ "3", "1", "2" ]
+}

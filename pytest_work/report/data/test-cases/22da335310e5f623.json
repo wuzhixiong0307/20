@@ -1,0 +1,223 @@
+{
+  "uid" : "22da335310e5f623",
+  "name" : "除法测试用例",
+  "fullName" : "test_case.test_calculator.TestCalculator#test_div",
+  "historyId" : "c9ac86b0b7c16faa42399da0fd3cfc09",
+  "time" : {
+    "start" : 1636899993847,
+    "stop" : 1636899993852,
+    "duration" : 5
+  },
+  "description" : "\n        测试除法运算\n        ",
+  "descriptionHtml" : "<pre><code>    测试除法运算\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "calculator",
+    "time" : {
+      "start" : 1636899993847,
+      "stop" : 1636899993847,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        测试除法运算\n        ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "第一步：实例化计算器类：calculator",
+      "time" : {
+        "start" : 1636899993847,
+        "stop" : 1636899993847,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "第二步：调用div方法，进行相除计算:3.3 / 9.9",
+      "time" : {
+        "start" : 1636899993847,
+        "stop" : 1636899993848,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "第三步：上传图片",
+      "time" : {
+        "start" : 1636899993848,
+        "stop" : 1636899993852,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9260761d05dc3d8c",
+        "name" : "测试图片",
+        "source" : "9260761d05dc3d8c.png",
+        "type" : "image/png",
+        "size" : 2770610
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "第四步：断言相除结果是否与预期结果一致:0.33 == 0.33",
+      "time" : {
+        "start" : 1636899993852,
+        "stop" : 1636899993852,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "calculator::0",
+    "time" : {
+      "start" : 1636899993852,
+      "stop" : 1636899993852,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试计算器功能"
+  }, {
+    "name" : "story",
+    "value" : "测试除法功能"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_calculator"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalculator"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-1PG7S0AC"
+  }, {
+    "name" : "thread",
+    "value" : "32984-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "result",
+    "value" : "0.33"
+  }, {
+    "name" : "value_1",
+    "value" : "3.3"
+  }, {
+    "name" : "value_2",
+    "value" : "9.9"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c3bc92e0253471a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636899948977,
+        "stop" : 1636899948982,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "1568cf7fef075576",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636899900260,
+        "stop" : 1636899900265,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "9b81484e470623d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636899865066,
+        "stop" : 1636899865070,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "f1b934066f1d0a88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636899748442,
+        "stop" : 1636899748446,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "1379c1f354df5e19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636899647191,
+        "stop" : 1636899647195,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "22da335310e5f623.json",
+  "parameterValues" : [ "0.33", "3.3", "9.9" ]
+}

@@ -1,0 +1,69 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "test_calculator",
+      "children" : [ {
+        "name" : "TestCalculator",
+        "children" : [ {
+          "name" : "除法测试用例",
+          "uid" : "fa92cabf9f6eb8e9",
+          "parentUid" : "020b08449bd14f8e34a2584bc06a961f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1636899993837,
+            "stop" : 1636899993842,
+            "duration" : 5
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "2", "6", "3" ]
+        }, {
+          "name" : "除法测试用例",
+          "uid" : "22da335310e5f623",
+          "parentUid" : "020b08449bd14f8e34a2584bc06a961f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1636899993847,
+            "stop" : 1636899993852,
+            "duration" : 5
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "0.33", "3.3", "9.9" ]
+        }, {
+          "name" : "加法测试用例",
+          "uid" : "765fbb1d88cede24",
+          "parentUid" : "020b08449bd14f8e34a2584bc06a961f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1636899993867,
+            "stop" : 1636899993872,
+            "duration" : 5
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "3", "1", "2" ]
+        }, {
+          "name" : "加法测试用例",
+          "uid" : "420b9302fd99a61a",
+          "parentUid" : "020b08449bd14f8e34a2584bc06a961f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1636899993878,
+            "stop" : 1636899993883,
+            "duration" : 5
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "1", "0.5", "0.5" ]
+        } ],
+        "uid" : "020b08449bd14f8e34a2584bc06a961f"
+      } ],
+      "uid" : "abbb274416fe6a01b757b566a58f53b3"
+    } ],
+    "uid" : "86abcc46617c603d802c3e378b13740e"
+  } ]
+}

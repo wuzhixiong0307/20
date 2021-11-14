@@ -1,0 +1,69 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "测试计算器功能",
+    "children" : [ {
+      "name" : "测试除法功能",
+      "children" : [ {
+        "name" : "除法测试用例",
+        "uid" : "fa92cabf9f6eb8e9",
+        "parentUid" : "a49c67ff53c337a7d1b6b329a872fba8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636899993837,
+          "stop" : 1636899993842,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "2", "6", "3" ]
+      }, {
+        "name" : "除法测试用例",
+        "uid" : "22da335310e5f623",
+        "parentUid" : "a49c67ff53c337a7d1b6b329a872fba8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636899993847,
+          "stop" : 1636899993852,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "0.33", "3.3", "9.9" ]
+      } ],
+      "uid" : "a49c67ff53c337a7d1b6b329a872fba8"
+    }, {
+      "name" : "测试加法功能",
+      "children" : [ {
+        "name" : "加法测试用例",
+        "uid" : "765fbb1d88cede24",
+        "parentUid" : "034df981068ab37ca31521e5f7ffddfb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636899993867,
+          "stop" : 1636899993872,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "3", "1", "2" ]
+      }, {
+        "name" : "加法测试用例",
+        "uid" : "420b9302fd99a61a",
+        "parentUid" : "034df981068ab37ca31521e5f7ffddfb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636899993878,
+          "stop" : 1636899993883,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1", "0.5", "0.5" ]
+      } ],
+      "uid" : "034df981068ab37ca31521e5f7ffddfb"
+    } ],
+    "uid" : "8a1e98235d342c1b2ae9859784549776"
+  } ]
+}

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41bc35e2-ae8a-47bd-8fdc-8c629dabe376" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20arIASyTSWwB5KoY9PERLxPzId" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python_script\pytest_work\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python_script\pytest_work\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run_case">
+    <configuration name="run_case" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytest_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_calculator.TestCalculator.test_add" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pytest_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_calculator.TestCalculator.test_add&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_calculator.TestCalculator.test_div" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pytest_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_calculator.TestCalculator.test_div&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_case.test_calculator" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="pytest_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_case.test_calculator&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest for test_case.test_calculator" />
+      <item itemvalue="Python tests.pytest for test_calculator.TestCalculator.test_add" />
+      <item itemvalue="Python tests.pytest for test_calculator.TestCalculator.test_div" />
+      <item itemvalue="Python.run_case" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_case" />
+        <item itemvalue="Python tests.pytest for test_calculator.TestCalculator.test_div" />
+        <item itemvalue="Python tests.pytest for test_calculator.TestCalculator.test_add" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41bc35e2-ae8a-47bd-8fdc-8c629dabe376" name="Default Changelist" comment="" />
+      <created>1636293456470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636293456470</updated>
+      <workItem from="1636293465914" duration="3523000" />
+      <workItem from="1636297010041" duration="3739000" />
+      <workItem from="1636892520760" duration="8933000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="176" y="116" width="1089" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636298273877">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="176" y="116" width="1089" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920/2160.360.1920.1040@0.0.1440.920" timestamp="1636298273877" />
+    <state x="93" y="93" width="1255" height="735" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1636300643865">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="93" y="93" width="1255" height="735" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.920/2160.360.1920.1040@0.0.1440.920" timestamp="1636300643865" />
+    <state x="451" y="241" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1636298045475">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="451" y="241" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.920/2160.360.1920.1040@0.0.1440.920" timestamp="1636298045475" />
+    <state x="431" y="89" key="#pytest_for_test_calculator.TestCalculator.test_add" timestamp="1636297962000">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="431" y="89" key="#pytest_for_test_calculator.TestCalculator.test_add/0.0.1440.920/2160.360.1920.1040@0.0.1440.920" timestamp="1636297962000" />
+    <state x="500" y="215" key="FileChooserDialogImpl" timestamp="1636892640852">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="500" y="215" key="FileChooserDialogImpl/0.0.1440.920/2160.360.1920.1040@0.0.1440.920" timestamp="1636892640852" />
+    <state width="1397" height="242" key="GridCell.Tab.0.bottom" timestamp="1636901500645">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.360.1920.1040@0.0.1440.920" timestamp="1636901500645" />
+    <state width="1397" height="242" key="GridCell.Tab.0.center" timestamp="1636901500645">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="242" key="GridCell.Tab.0.center/0.0.1440.920/2160.360.1920.1040@0.0.1440.920" timestamp="1636901500645" />
+    <state width="1397" height="242" key="GridCell.Tab.0.left" timestamp="1636901500645">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="242" key="GridCell.Tab.0.left/0.0.1440.920/2160.360.1920.1040@0.0.1440.920" timestamp="1636901500645" />
+    <state width="1397" height="242" key="GridCell.Tab.0.right" timestamp="1636901500645">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="242" key="GridCell.Tab.0.right/0.0.1440.920/2160.360.1920.1040@0.0.1440.920" timestamp="1636901500645" />
+    <state x="222" y="103" key="SettingsEditor" timestamp="1636297838565">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="222" y="103" key="SettingsEditor/0.0.1440.920/2160.360.1920.1040@0.0.1440.920" timestamp="1636297838565" />
+    <state x="405" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1636892527870">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="405" y="285" key="com.intellij.ide.util.TipDialog/0.0.1440.920/2160.360.1920.1040@0.0.1440.920" timestamp="1636892527870" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pytest_work$pytest_for_test_case_test_calculator.coverage" NAME="pytest for test_case.test_calculator Coverage Results" MODIFIED="1636298070241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/pytest_work$run_case.coverage" NAME="run_case Coverage Results" MODIFIED="1636899992887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytest_work$test_calculator.coverage" NAME="test_calculator Coverage Results" MODIFIED="1636298186632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/pytest_work$pytest_for_test_calculator_TestCalculator_test_add.coverage" NAME="pytest for test_calculator.TestCalculator.test_add Coverage Results" MODIFIED="1636299106323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/pytest_work$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1636294391841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/pytest_work$pytest_for_test_calculator_TestCalculator_test_div.coverage" NAME="pytest for test_calculator.TestCalculator.test_div Coverage Results" MODIFIED="1636896472024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+  </component>
+</project>
