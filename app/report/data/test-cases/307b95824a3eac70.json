@@ -1,0 +1,64 @@
+{
+  "uid" : "307b95824a3eac70",
+  "name" : "单个成员添加成功",
+  "fullName" : "test_case.test_add_members_case.TestAddMembers#test_add_members",
+  "historyId" : "310d283db1590d7705b7014ea21b0bbc",
+  "time" : {
+    "start" : 1645543808171,
+    "stop" : 1645543808171,
+    "duration" : 0
+  },
+  "description" : "添加单个成员用例",
+  "descriptionHtml" : "<p>添加单个成员用例</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: unconditional skip",
+  "statusTrace" : "('D:\\\\python_script\\\\测试开发作业\\\\app\\\\test_case\\\\test_add_members_case.py', 19, 'Skipped: unconditional skip')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "添加成员用例"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_add_members_case"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAddMembers"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-1PG7S0AC"
+  }, {
+    "name" : "thread",
+    "value" : "27776-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_add_members_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip" ]
+  },
+  "source" : "307b95824a3eac70.json",
+  "parameterValues" : [ ]
+}

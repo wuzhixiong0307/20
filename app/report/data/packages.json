@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_case.test_add_members_case",
+    "children" : [ {
+      "name" : "单个成员添加成功",
+      "uid" : "b229caaf77435db5",
+      "parentUid" : "0ad2044ea631ad2cd544f16c51901980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645545072261,
+        "stop" : 1645545091776,
+        "duration" : 19515
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "多个成员添加成功",
+      "uid" : "e54c51fb6f807ead",
+      "parentUid" : "0ad2044ea631ad2cd544f16c51901980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645545091778,
+        "stop" : 1645545118764,
+        "duration" : 26986
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "test_case.test_add_members_case"
+  } ]
+}

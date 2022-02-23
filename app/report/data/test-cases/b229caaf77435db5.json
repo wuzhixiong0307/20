@@ -1,0 +1,140 @@
+{
+  "uid" : "b229caaf77435db5",
+  "name" : "单个成员添加成功",
+  "fullName" : "test_case.test_add_members_case.TestAddMembers#test_add_members",
+  "historyId" : "310d283db1590d7705b7014ea21b0bbc",
+  "time" : {
+    "start" : 1645545072261,
+    "stop" : 1645545091776,
+    "duration" : 19515
+  },
+  "description" : "添加单个成员用例",
+  "descriptionHtml" : "<p>添加单个成员用例</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "添加成员用例"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_add_members_case"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAddMembers"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-1PG7S0AC"
+  }, {
+    "name" : "thread",
+    "value" : "29124-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_add_members_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "714b6dd7bcbdac89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645544948121,
+        "stop" : 1645544969643,
+        "duration" : 21522
+      }
+    }, {
+      "uid" : "f02c8133f3986725",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1645544895705,
+        "stop" : 1645544895705,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ac1cf5f7f99f5fde",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645544667676,
+        "stop" : 1645544687347,
+        "duration" : 19671
+      }
+    }, {
+      "uid" : "d2882ee0df655062",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1645543996889,
+        "stop" : 1645543996889,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "94b2c3f04d6724dd",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1645543909081,
+        "stop" : 1645543909081,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "307b95824a3eac70",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1645543808171,
+        "stop" : 1645543808171,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "82c20db20ca84a4f",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1645543711083,
+        "stop" : 1645543711083,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b72d1a7896824511",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1645543544208,
+        "stop" : 1645543544208,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "892d10692ea26e9b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1645543357100,
+        "stop" : 1645543357100,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b229caaf77435db5.json",
+  "parameterValues" : [ ]
+}

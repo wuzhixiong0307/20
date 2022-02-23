@@ -1,0 +1,19 @@
+- desc: 设备名称_HUAWEI_P30_Pro
+  port: 4723
+  desired_caps:
+    platformName: Android
+    platformVersion: "10"
+    deviceName: APH0219724018121
+    appPackage: com.tencent.wework
+    appActivity: .launch.LaunchSplashEduActivity
+    noReset: !!bool True
+
+- desc: 设备名称_雷电模拟器
+  port: 4724
+  desired_caps:
+    platformName: Android
+    platformVersion: "5.1.1"
+    deviceName: emulator-5554
+    appPackage: com.tencent.wework
+    appActivity: .launch.LaunchSplashActivity
+    noReset: !!bool True

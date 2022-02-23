@@ -1,0 +1,35 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "添加成员用例",
+    "children" : [ {
+      "name" : "单个成员添加成功",
+      "uid" : "b229caaf77435db5",
+      "parentUid" : "0abde7fc04154ef1a67c5ccdf6d38798",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645545072261,
+        "stop" : 1645545091776,
+        "duration" : 19515
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "多个成员添加成功",
+      "uid" : "e54c51fb6f807ead",
+      "parentUid" : "0abde7fc04154ef1a67c5ccdf6d38798",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645545091778,
+        "stop" : 1645545118764,
+        "duration" : 26986
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "0abde7fc04154ef1a67c5ccdf6d38798"
+  } ]
+}

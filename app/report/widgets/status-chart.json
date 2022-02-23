@@ -1,0 +1,21 @@
+[ {
+  "uid" : "b229caaf77435db5",
+  "name" : "单个成员添加成功",
+  "time" : {
+    "start" : 1645545072261,
+    "stop" : 1645545091776,
+    "duration" : 19515
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e54c51fb6f807ead",
+  "name" : "多个成员添加成功",
+  "time" : {
+    "start" : 1645545091778,
+    "stop" : 1645545118764,
+    "duration" : 26986
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

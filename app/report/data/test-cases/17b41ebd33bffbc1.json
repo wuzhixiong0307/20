@@ -1,0 +1,59 @@
+{
+  "uid" : "17b41ebd33bffbc1",
+  "name" : "多个成员添加成功",
+  "fullName" : "test_case.test_add_members_case.TestAddMembers#test_save_and_add_members",
+  "historyId" : "2466e6447c002094033d0c8db01aebae",
+  "time" : {
+    "start" : 1645543544213,
+    "stop" : 1645543565621,
+    "duration" : 21408
+  },
+  "description" : "保存并继续添加，添加多个成员用例",
+  "descriptionHtml" : "<p>保存并继续添加，添加多个成员用例</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "添加成员用例"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_add_members_case"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAddMembers"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-1PG7S0AC"
+  }, {
+    "name" : "thread",
+    "value" : "20128-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_add_members_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "17b41ebd33bffbc1.json",
+  "parameterValues" : [ ]
+}
