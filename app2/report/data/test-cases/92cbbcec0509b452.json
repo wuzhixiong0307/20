@@ -1,0 +1,155 @@
+{
+  "uid" : "92cbbcec0509b452",
+  "name" : "添加成员",
+  "fullName" : "test_case.test_member_case.TestCase#test_add_member",
+  "historyId" : "1e523656aa708d51c74e244fb1c46ab6",
+  "time" : {
+    "start" : 1647782239803,
+    "stop" : 1647782249305,
+    "duration" : 9502
+  },
+  "description" : "测试添加成员",
+  "descriptionHtml" : "<p>测试添加成员</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1647782233529,
+      "stop" : 1647782233529,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "manage_logs",
+    "time" : {
+      "start" : 1647782233528,
+      "stop" : 1647782233529,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1647782233428,
+      "stop" : 1647782233528,
+      "duration" : 100
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "测试添加成员",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dabd32104c2a33d6",
+      "name" : "log",
+      "source" : "dabd32104c2a33d6.txt",
+      "type" : "text/plain",
+      "size" : 6474
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1647782300862,
+      "stop" : 1647782300862,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_member_case"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-1PG7S0AC"
+  }, {
+    "name" : "thread",
+    "value" : "212232-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_member_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "users",
+    "value" : "{'name': '杨利', 'number': '15067715353'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5616e2942c6744c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647781277539,
+        "stop" : 1647781291860,
+        "duration" : 14321
+      }
+    }, {
+      "uid" : "59e81337d9e2bb5e",
+      "status" : "broken",
+      "statusDetails" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=4725): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023782C9D348>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))",
+      "time" : {
+        "start" : 1647781131407,
+        "stop" : 1647781131407,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "92cbbcec0509b452.json",
+  "parameterValues" : [ "{'name': '杨利', 'number': '15067715353'}" ]
+}

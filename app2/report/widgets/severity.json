@@ -1,0 +1,41 @@
+[ {
+  "uid" : "242beb2656ab8e28",
+  "name" : "删除成员",
+  "time" : {
+    "start" : 1647782270766,
+    "stop" : 1647782282494,
+    "duration" : 11728
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc051f1c96277aa5",
+  "name" : "添加成员",
+  "time" : {
+    "start" : 1647782255719,
+    "stop" : 1647782264374,
+    "duration" : 8655
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92cbbcec0509b452",
+  "name" : "添加成员",
+  "time" : {
+    "start" : 1647782239803,
+    "stop" : 1647782249305,
+    "duration" : 9502
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80d1112d61d6c2e1",
+  "name" : "删除成员",
+  "time" : {
+    "start" : 1647782288816,
+    "stop" : 1647782300609,
+    "duration" : 11793
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

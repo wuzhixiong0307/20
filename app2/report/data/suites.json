@@ -1,0 +1,69 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "test_member_case",
+      "children" : [ {
+        "name" : "TestCase",
+        "children" : [ {
+          "name" : "添加成员",
+          "uid" : "92cbbcec0509b452",
+          "parentUid" : "7aee3de8d049bef78d5a3dbf606981e1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647782239803,
+            "stop" : 1647782249305,
+            "duration" : 9502
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'name': '杨利', 'number': '15067715353'}" ]
+        }, {
+          "name" : "添加成员",
+          "uid" : "dc051f1c96277aa5",
+          "parentUid" : "7aee3de8d049bef78d5a3dbf606981e1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647782255719,
+            "stop" : 1647782264374,
+            "duration" : 8655
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'name': '张三', 'number': '19966008899'}" ]
+        }, {
+          "name" : "删除成员",
+          "uid" : "242beb2656ab8e28",
+          "parentUid" : "7aee3de8d049bef78d5a3dbf606981e1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647782270766,
+            "stop" : 1647782282494,
+            "duration" : 11728
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'name': '杨利', 'number': '15067715353'}" ]
+        }, {
+          "name" : "删除成员",
+          "uid" : "80d1112d61d6c2e1",
+          "parentUid" : "7aee3de8d049bef78d5a3dbf606981e1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647782288816,
+            "stop" : 1647782300609,
+            "duration" : 11793
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'name': '张三', 'number': '19966008899'}" ]
+        } ],
+        "uid" : "7aee3de8d049bef78d5a3dbf606981e1"
+      } ],
+      "uid" : "ecc7cd6518e3c647c0f63b09e393bd16"
+    } ],
+    "uid" : "86abcc46617c603d802c3e378b13740e"
+  } ]
+}

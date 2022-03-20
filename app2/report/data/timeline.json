@@ -1,0 +1,151 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-1PG7S0AC",
+    "children" : [ {
+      "name" : "212232-MainThread",
+      "children" : [ {
+        "name" : "添加成员",
+        "uid" : "dc051f1c96277aa5",
+        "parentUid" : "0f675ce7d8c08b8a0a8952b04994dcc9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647782255719,
+          "stop" : 1647782264374,
+          "duration" : 8655
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '张三', 'number': '19966008899'}" ]
+      }, {
+        "name" : "删除成员",
+        "uid" : "242beb2656ab8e28",
+        "parentUid" : "0f675ce7d8c08b8a0a8952b04994dcc9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647782270766,
+          "stop" : 1647782282494,
+          "duration" : 11728
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '杨利', 'number': '15067715353'}" ]
+      }, {
+        "name" : "添加成员",
+        "uid" : "92cbbcec0509b452",
+        "parentUid" : "0f675ce7d8c08b8a0a8952b04994dcc9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647782239803,
+          "stop" : 1647782249305,
+          "duration" : 9502
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '杨利', 'number': '15067715353'}" ]
+      }, {
+        "name" : "删除成员",
+        "uid" : "80d1112d61d6c2e1",
+        "parentUid" : "0f675ce7d8c08b8a0a8952b04994dcc9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647782288816,
+          "stop" : 1647782300609,
+          "duration" : 11793
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '张三', 'number': '19966008899'}" ]
+      } ],
+      "uid" : "0f675ce7d8c08b8a0a8952b04994dcc9"
+    }, {
+      "name" : "54308-MainThread",
+      "children" : [ {
+        "name" : "添加成员",
+        "uid" : "59e81337d9e2bb5e",
+        "parentUid" : "1900c7842c1e828caa6462f971e26891",
+        "status" : "broken",
+        "time" : {
+          "start" : 1647781131407,
+          "stop" : 1647781131407,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '杨利', 'number': '15067715353'}" ]
+      }, {
+        "name" : "添加成员",
+        "uid" : "657e5c7ee315bfd3",
+        "parentUid" : "1900c7842c1e828caa6462f971e26891",
+        "status" : "broken",
+        "time" : {
+          "start" : 1647781140784,
+          "stop" : 1647781140784,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '张三', 'number': '19966008899'}" ]
+      } ],
+      "uid" : "1900c7842c1e828caa6462f971e26891"
+    }, {
+      "name" : "206592-MainThread",
+      "children" : [ {
+        "name" : "删除成员",
+        "uid" : "fc208d37809149b8",
+        "parentUid" : "ea479580367d19e87eb5413171349ea2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647781329545,
+          "stop" : 1647781340748,
+          "duration" : 11203
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '张三', 'number': '19966008899'}" ]
+      }, {
+        "name" : "删除成员",
+        "uid" : "f393fe53ca3a048f",
+        "parentUid" : "ea479580367d19e87eb5413171349ea2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647781311884,
+          "stop" : 1647781323345,
+          "duration" : 11461
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '杨利', 'number': '15067715353'}" ]
+      }, {
+        "name" : "添加成员",
+        "uid" : "bca36ea8d41013ca",
+        "parentUid" : "ea479580367d19e87eb5413171349ea2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647781298364,
+          "stop" : 1647781305650,
+          "duration" : 7286
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '张三', 'number': '19966008899'}" ]
+      }, {
+        "name" : "添加成员",
+        "uid" : "5616e2942c6744c8",
+        "parentUid" : "ea479580367d19e87eb5413171349ea2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647781277539,
+          "stop" : 1647781291860,
+          "duration" : 14321
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '杨利', 'number': '15067715353'}" ]
+      } ],
+      "uid" : "ea479580367d19e87eb5413171349ea2"
+    } ],
+    "uid" : "f9f1755643283477a7224e21cd50e5e7"
+  } ]
+}

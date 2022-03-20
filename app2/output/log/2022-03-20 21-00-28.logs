@@ -1,0 +1,4 @@
+2022-03-20 21:00:43 [INFO] 调用链路信息：[<FrameSummary file D:\python_script\测试开发作业\app2\test_case\test_member_case.py, line 33 in test_add_member>, <FrameSummary file D:\python_script\测试开发作业\app2\page_object\main_page.py, line 19 in goto_address_book>, <FrameSummary file D:\python_script\测试开发作业\app2\common\base.py, line 62 in element_click>] (base.py:33)
+2022-03-20 21:00:43 [INFO] 点击元素：('xpath', "//*[@text='通讯录']") (base.py:33)
+2022-03-20 21:00:43 [INFO] 调用链路信息：[<FrameSummary file D:\python_script\测试开发作业\app2\test_case\test_member_case.py, line 33 in test_add_member>, <FrameSummary file D:\python_script\测试开发作业\app2\page_object\main_page.py, line 19 in goto_address_book>, <FrameSummary file D:\python_script\测试开发作业\app2\common\base.py, line 68 in element_click>, <FrameSummary file D:\python_script\测试开发作业\app2\common\base.py, line 43 in find_element>] (base.py:33)
+2022-03-20 21:00:43 [INFO] 查找元素：('xpath', "//*[@text='通讯录']") (base.py:33)

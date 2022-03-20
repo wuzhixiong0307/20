@@ -1,0 +1,146 @@
+{
+  "uid" : "80d1112d61d6c2e1",
+  "name" : "删除成员",
+  "fullName" : "test_case.test_member_case.TestCase#test_del_member",
+  "historyId" : "b6e2707c3618131d5478b8bcdaf8e1f9",
+  "time" : {
+    "start" : 1647782288816,
+    "stop" : 1647782300609,
+    "duration" : 11793
+  },
+  "description" : "测试删除成员",
+  "descriptionHtml" : "<p>测试删除成员</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1647782233529,
+      "stop" : 1647782233529,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "manage_logs",
+    "time" : {
+      "start" : 1647782233528,
+      "stop" : 1647782233529,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1647782233428,
+      "stop" : 1647782233528,
+      "duration" : 100
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "测试删除成员",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b17bde0db5a7d95a",
+      "name" : "log",
+      "source" : "b17bde0db5a7d95a.txt",
+      "type" : "text/plain",
+      "size" : 8232
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1647782300862,
+      "stop" : 1647782300862,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_member_case"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-1PG7S0AC"
+  }, {
+    "name" : "thread",
+    "value" : "212232-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_member_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "users",
+    "value" : "{'name': '张三', 'number': '19966008899'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fc208d37809149b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647781329545,
+        "stop" : 1647781340748,
+        "duration" : 11203
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "80d1112d61d6c2e1.json",
+  "parameterValues" : [ "{'name': '张三', 'number': '19966008899'}" ]
+}
